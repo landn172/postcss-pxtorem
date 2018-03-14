@@ -1,14 +1,14 @@
 {
-  "name": "postcss-pxtorem",
-  "description": "A CSS post-processor that converts px to rem.",
+  "name": "postcss-rpxtorem",
+  "description": "A CSS post-processor that converts rpx to rem.",
   "version": "4.0.1",
-  "author": "cuth",
+  "author": "landn172",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:cuth/postcss-pxtorem.git"
+    "url": "git@github.com:landn172/postcss-rpxtorem.git"
   },
-  "bugs": "https://github.com/cuth/postcss-pxtorem/issues",
+  "bugs": "https://github.com/landn172/postcss-rpxtorem/issues",
   "main": "index.js",
   "scripts": {
     "test": "jasmine-node spec"
@@ -20,7 +20,7 @@
     "css",
     "rem",
     "pixel",
-    "px",
+    "rpx",
     "postcss",
     "postcss-plugin"
   ],
