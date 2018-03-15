@@ -19,6 +19,7 @@ Pixels are the easiest unit to use (*opinion*). The only issue with them is that
 
 关于rpx的[描述](https://mp.weixin.qq.com/debug/wxadoc/dev/framework/view/wxss.html):
 > rpx（responsive pixel）: 可以根据屏幕宽度进行自适应。规定屏幕宽为750rpx。如在 iPhone6 上，屏幕宽度为375px，共有750个物理像素，则750rpx = 375px = 750物理像素，1rpx = 0.5px = 1物理像素。
+>
 > | 设备 | rpx换算px (屏幕宽度/750) | px换算rpx (750/屏幕宽度)
 > | ------------- |:-------------:| -----:|
 > | iPhone5 | 1rpx = 0.42px | 1px = 2.34rpx
